@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1663079366818,2534,SignIn-13-09-2022 -->19/59/60,200,OK,SignIn 1-1,text,true,,5696,732,1,1,https://www.demo.guru99.com/test/newtours/index.php,2532,0,2131
+1663079369374,299,Login/test/newtours/login_sucess.php-WINDOWS-1Q1O6H7,200,OK,SignIn 1-1,text,true,,4283,578,1,1,https://www.demo.guru99.com/test/newtours/login_sucess.php,299,0,0
+1663079369753,1121,SignOf-19/59/74  13-09-2022,200,OK,SignOff 1-1,text,true,,5657,545,1,3,https://www.demo.guru99.com/test/newtours/index.php,1120,0,640
+1663079369757,1118,Lunch-Lunch,200,OK,Lunch 2-1,text,true,,5657,474,1,3,https://www.demo.guru99.com/test/newtours/index.php,1117,0,643
+1663079369777,1100,"Flights/test/newtours/reservation.php-Tue, 13_Sep_2022",200,OK,Flights 3-1,text,true,,5693,552,1,3,https://www.demo.guru99.com/test/newtours/reservation.php,1100,0,628
+1663079370882,515,SignOff/test/newtours/index.php-1,200,OK,SignOff 1-1,text,true,,5567,597,1,2,https://www.demo.guru99.com/test/newtours/index.php,515,0,0
+1663079370879,518,lunch/test/newtours/index.php-ThreadGroupName:- Lunch,200,OK,Lunch 2-1,text,true,,5567,526,1,2,https://www.demo.guru99.com/test/newtours/index.php,518,0,0
+1663079371583,2351,SMTP Sampler,500,IOException while sending message,SignOff 1-1,text,false,,482,0,1,1,null,0,0,0
